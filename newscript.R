@@ -1,3 +1,3 @@
 # New r script for gapminder
 
-x <- 3
+x <- 13

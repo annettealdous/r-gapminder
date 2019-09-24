@@ -1,3 +1,5 @@
 # New r script for gapminder
 
-x <- 13
+x <- 11
+y <- 9999
+z <- "some text"
